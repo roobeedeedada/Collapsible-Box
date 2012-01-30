@@ -1,0 +1,36 @@
+/**
+ ** COLLAPSIBLE C(hat)BOX
+ ** Version: Horizontally-aligned, no cookies
+ ** widget by kismet aka roobeedeedada
+ ** https://github.com/roobeedeedada/Collapsible-Box
+ ** http://www.rpg-directory.com/index.php?/topic/63660-collapsible-cboxshoutbox
+ **
+ ** Style changes (such as colour, style and location) welcome
+ **/
+
+#horizontal-toggle {
+	position: fixed;    
+	bottom: 0px;
+	right: 35px;
+	width: 320px;
+	border-radius: 15px;
+	padding: 5px 0px;
+	background-color: #000000;  
+	border: 1px solid #ffffff;  
+	font-family: Verdana, Tahoma, Arial, sans-serif;    
+	font-size: 11px;    
+	color: #ffffff;
+	text-align: center; 
+	cursor: pointer;    
+}   
+    
+#chatter {  
+	padding: 10px; 
+	background-color: #000000;  
+	border: 1px solid #ffffff;  
+	position: fixed;    
+	bottom: 35px;                
+	right: 35px;
+	z-index: 100;                
+	display: none;               
+}
