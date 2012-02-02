@@ -1,12 +1,13 @@
 COLLAPSIBLE CBOX CODE
 as found on rpg-directory.com
-created by kismet aka roobeedeedada
-please respect the copyright
+created by kismet aka roobeedeedada, (c) 2011
+
+You are more than welcome to change the colours and styles of the widget to make it blend in with your site's design. :)
 
 DEPENDENCIES
 This widget is dependent on JQuery.
 To get the latest version of JQuery, go to JQuery.com, download it and import it on your website before adding the Collapsible Box script.
 
-If you want to import it without downloading it (if you can't host it), here area couple of links:
+If you want to import it without downloading it (if you can't host it), here are a couple of links:
 http://code.jquery.com/jquery-latest.min.js (hosted by JQuery)
 http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js (hosted by Google)
